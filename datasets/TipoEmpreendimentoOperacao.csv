@@ -1,0 +1,327 @@
+ideTipoEmpreendimentoOperacao,nomTipoEmpreendimento,sigEmpreendimento,qtdEmpreendimento,mdaPotenciaInstaladakW,mesReferencia,anoReferencia,dthProcessamento
+1,Central Geradora Hidrelétrica,CGH,0,0.00,12,2001,13/09/2017 00:00:00
+2,Central Geradora Hidrelétrica,CGH,144,78400.00,12,2002,13/09/2017 00:00:00
+3,Central Geradora Hidrelétrica,CGH,159,86510.00,12,2003,13/09/2017 00:00:00
+4,Central Geradora Hidrelétrica,CGH,171,90050.00,12,2004,13/09/2017 00:00:00
+5,Central Geradora Hidrelétrica,CGH,188,99300.00,12,2005,13/09/2017 00:00:00
+6,Central Geradora Hidrelétrica,CGH,202,106772.00,12,2006,13/09/2017 00:00:00
+7,Central Geradora Hidrelétrica,CGH,215,112258.00,12,2007,13/09/2017 00:00:00
+8,Central Geradora Hidrelétrica,CGH,276,153400.00,12,2008,13/09/2017 00:00:00
+9,Central Geradora Hidrelétrica,CGH,307,173400.00,12,2009,13/09/2017 00:00:00
+10,Central Geradora Hidrelétrica,CGH,327,186120.00,12,2010,13/09/2017 00:00:00
+11,Central Geradora Hidrelétrica,CGH,377,216446.00,12,2011,13/09/2017 00:00:00
+12,Central Geradora Hidrelétrica,CGH,397,235454.00,12,2012,13/09/2017 00:00:00
+13,Central Geradora Hidrelétrica,CGH,444,269996.00,12,2013,13/09/2017 00:00:00
+14,Central Geradora Hidrelétrica,CGH,486,303320.00,12,2014,13/09/2017 00:00:00
+15,Central Geradora Hidrelétrica,CGH,538,395026.00,12,2015,13/09/2017 00:00:00
+16,Central Geradora Hidrelétrica,CGH,581,480933.33,12,2016,13/09/2017 00:00:00
+17,Central Geradora Hidrelétrica,CGH,377,216446.00,3,2012,13/09/2017 00:00:00
+18,Central Geradora Hidrelétrica,CGH,405,240364.00,3,2013,13/09/2017 00:00:00
+19,Central Geradora Hidrelétrica,CGH,449,275195.00,3,2014,13/09/2017 00:00:00
+20,Central Geradora Hidrelétrica,CGH,496,326213.00,3,2015,13/09/2017 00:00:00
+21,Central Geradora Hidrelétrica,CGH,553,426059.00,3,2016,13/09/2017 00:00:00
+22,Central Geradora Hidrelétrica,CGH,603,520999.99,3,2017,13/09/2017 00:00:00
+23,Central Geradora Hidrelétrica,CGH,384,229049.00,6,2012,13/09/2017 00:00:00
+24,Central Geradora Hidrelétrica,CGH,420,255596.00,6,2013,13/09/2017 00:00:00
+25,Central Geradora Hidrelétrica,CGH,451,277679.00,6,2014,13/09/2017 00:00:00
+26,Central Geradora Hidrelétrica,CGH,511,349845.00,6,2015,13/09/2017 00:00:00
+27,Central Geradora Hidrelétrica,CGH,554,427331.52,6,2016,13/09/2017 00:00:00
+28,Central Geradora Hidrelétrica,CGH,389,229744.00,9,2012,13/09/2017 00:00:00
+29,Central Geradora Hidrelétrica,CGH,421,256047.00,9,2013,13/09/2017 00:00:00
+30,Central Geradora Hidrelétrica,CGH,473,292933.00,9,2014,13/09/2017 00:00:00
+31,Central Geradora Hidrelétrica,CGH,525,370609.00,9,2015,13/09/2017 00:00:00
+32,Central Geradora Hidrelétrica,CGH,565,450392.25,9,2016,13/09/2017 00:00:00
+33,Central Geradora Eolielétrica,EOL,7,21000.00,12,2001,13/09/2017 00:00:00
+34,Central Geradora Eolielétrica,EOL,9,22000.00,12,2002,13/09/2017 00:00:00
+35,Central Geradora Eolielétrica,EOL,9,22030.00,12,2003,13/09/2017 00:00:00
+36,Central Geradora Eolielétrica,EOL,11,28630.00,12,2004,13/09/2017 00:00:00
+37,Central Geradora Eolielétrica,EOL,10,28600.00,12,2005,13/09/2017 00:00:00
+38,Central Geradora Eolielétrica,EOL,15,236850.00,12,2006,13/09/2017 00:00:00
+39,Central Geradora Eolielétrica,EOL,16,247050.00,12,2007,13/09/2017 00:00:00
+40,Central Geradora Eolielétrica,EOL,21,338400.00,12,2008,13/09/2017 00:00:00
+41,Central Geradora Eolielétrica,EOL,36,602300.00,12,2009,13/09/2017 00:00:00
+42,Central Geradora Eolielétrica,EOL,50,926890.00,12,2010,13/09/2017 00:00:00
+43,Central Geradora Eolielétrica,EOL,70,1424792.00,12,2011,13/09/2017 00:00:00
+44,Central Geradora Eolielétrica,EOL,82,1820382.00,12,2012,13/09/2017 00:00:00
+45,Central Geradora Eolielétrica,EOL,108,2201772.00,12,2013,13/09/2017 00:00:00
+46,Central Geradora Eolielétrica,EOL,228,4887689.00,12,2014,13/09/2017 00:00:00
+47,Central Geradora Eolielétrica,EOL,316,7629732.00,12,2015,13/09/2017 00:00:00
+48,Central Geradora Eolielétrica,EOL,413,10123942.22,12,2016,13/09/2017 00:00:00
+49,Central Geradora Eolielétrica,EOL,70,1424792.00,3,2012,13/09/2017 00:00:00
+50,Central Geradora Eolielétrica,EOL,92,2044538.00,3,2013,13/09/2017 00:00:00
+51,Central Geradora Eolielétrica,EOL,117,2441176.00,3,2014,13/09/2017 00:00:00
+52,Central Geradora Eolielétrica,EOL,265,5832549.00,3,2015,13/09/2017 00:00:00
+53,Central Geradora Eolielétrica,EOL,349,8488082.00,3,2016,13/09/2017 00:00:00
+54,Central Geradora Eolielétrica,EOL,423,10364042.38,3,2017,13/09/2017 00:00:00
+55,Central Geradora Eolielétrica,EOL,76,1543042.00,6,2012,13/09/2017 00:00:00
+56,Central Geradora Eolielétrica,EOL,95,2092541.00,6,2013,13/09/2017 00:00:00
+57,Central Geradora Eolielétrica,EOL,151,3106190.00,6,2014,13/09/2017 00:00:00
+58,Central Geradora Eolielétrica,EOL,264,6428397.00,6,2015,13/09/2017 00:00:00
+59,Central Geradora Eolielétrica,EOL,370,9022700.22,6,2016,13/09/2017 00:00:00
+60,Central Geradora Eolielétrica,EOL,80,1692532.00,9,2012,13/09/2017 00:00:00
+61,Central Geradora Eolielétrica,EOL,97,2109364.00,9,2013,13/09/2017 00:00:00
+62,Central Geradora Eolielétrica,EOL,183,3840138.00,9,2014,13/09/2017 00:00:00
+63,Central Geradora Eolielétrica,EOL,273,6629397.00,9,2015,13/09/2017 00:00:00
+64,Central Geradora Eolielétrica,EOL,389,9506960.22,9,2016,13/09/2017 00:00:00
+65,Pequena Central Hidrelétrica,PCH,303,855000.00,12,2001,13/09/2017 00:00:00
+66,Pequena Central Hidrelétrica,PCH,208,896700.00,12,2002,13/09/2017 00:00:00
+67,Pequena Central Hidrelétrica,PCH,241,1151000.00,12,2003,13/09/2017 00:00:00
+68,Pequena Central Hidrelétrica,PCH,250,1219570.00,12,2004,13/09/2017 00:00:00
+69,Pequena Central Hidrelétrica,PCH,260,1329900.00,12,2005,13/09/2017 00:00:00
+70,Pequena Central Hidrelétrica,PCH,275,1566288.00,12,2006,13/09/2017 00:00:00
+71,Pequena Central Hidrelétrica,PCH,294,1820259.00,12,2007,13/09/2017 00:00:00
+72,Pequena Central Hidrelétrica,PCH,329,2453900.00,12,2008,13/09/2017 00:00:00
+73,Pequena Central Hidrelétrica,PCH,356,2952800.00,12,2009,13/09/2017 00:00:00
+74,Pequena Central Hidrelétrica,PCH,387,3428310.00,12,2010,13/09/2017 00:00:00
+75,Pequena Central Hidrelétrica,PCH,433,3870302.00,12,2011,13/09/2017 00:00:00
+76,Pequena Central Hidrelétrica,PCH,435,4247818.00,12,2012,13/09/2017 00:00:00
+77,Pequena Central Hidrelétrica,PCH,480,4656391.00,12,2013,13/09/2017 00:00:00
+78,Pequena Central Hidrelétrica,PCH,471,4738176.00,12,2014,13/09/2017 00:00:00
+79,Pequena Central Hidrelétrica,PCH,466,4840273.00,12,2015,13/09/2017 00:00:00
+80,Pequena Central Hidrelétrica,PCH,441,4918966.57,12,2016,13/09/2017 00:00:00
+81,Pequena Central Hidrelétrica,PCH,433,3870302.00,3,2012,13/09/2017 00:00:00
+82,Pequena Central Hidrelétrica,PCH,440,4315464.00,3,2013,13/09/2017 00:00:00
+83,Pequena Central Hidrelétrica,PCH,477,4669842.00,3,2014,13/09/2017 00:00:00
+84,Pequena Central Hidrelétrica,PCH,476,4783058.00,3,2015,13/09/2017 00:00:00
+85,Pequena Central Hidrelétrica,PCH,457,4825445.00,3,2016,13/09/2017 00:00:00
+86,Pequena Central Hidrelétrica,PCH,436,4952202.57,3,2017,13/09/2017 00:00:00
+87,Pequena Central Hidrelétrica,PCH,431,4017841.00,6,2012,13/09/2017 00:00:00
+88,Pequena Central Hidrelétrica,PCH,456,4441066.00,6,2013,13/09/2017 00:00:00
+89,Pequena Central Hidrelétrica,PCH,463,4640031.00,6,2014,13/09/2017 00:00:00
+90,Pequena Central Hidrelétrica,PCH,471,4821940.00,6,2015,13/09/2017 00:00:00
+91,Pequena Central Hidrelétrica,PCH,448,4816929.47,6,2016,13/09/2017 00:00:00
+92,Pequena Central Hidrelétrica,PCH,425,4126294.00,9,2012,13/09/2017 00:00:00
+93,Pequena Central Hidrelétrica,PCH,462,4569748.00,9,2013,13/09/2017 00:00:00
+94,Pequena Central Hidrelétrica,PCH,470,4689552.00,9,2014,13/09/2017 00:00:00
+95,Pequena Central Hidrelétrica,PCH,466,4816945.00,9,2015,13/09/2017 00:00:00
+96,Pequena Central Hidrelétrica,PCH,446,4848790.47,9,2016,13/09/2017 00:00:00
+97,Central Geradora Solar Fotovoltaica,UFV,0,0.00,12,2001,13/09/2017 00:00:00
+98,Central Geradora Solar Fotovoltaica,UFV,0,0.00,12,2002,13/09/2017 00:00:00
+99,Central Geradora Solar Fotovoltaica,UFV,1,20.00,12,2003,13/09/2017 00:00:00
+100,Central Geradora Solar Fotovoltaica,UFV,1,20.00,12,2004,13/09/2017 00:00:00
+101,Central Geradora Solar Fotovoltaica,UFV,1,20.00,12,2005,13/09/2017 00:00:00
+102,Central Geradora Solar Fotovoltaica,UFV,1,20.00,12,2006,13/09/2017 00:00:00
+103,Central Geradora Solar Fotovoltaica,UFV,1,20.00,12,2007,13/09/2017 00:00:00
+104,Central Geradora Solar Fotovoltaica,UFV,1,20.00,12,2008,13/09/2017 00:00:00
+105,Central Geradora Solar Fotovoltaica,UFV,1,20.00,12,2009,13/09/2017 00:00:00
+106,Central Geradora Solar Fotovoltaica,UFV,2,90.00,12,2010,13/09/2017 00:00:00
+107,Central Geradora Solar Fotovoltaica,UFV,6,1087.00,12,2011,13/09/2017 00:00:00
+108,Central Geradora Solar Fotovoltaica,UFV,11,7578.00,12,2012,13/09/2017 00:00:00
+109,Central Geradora Solar Fotovoltaica,UFV,45,4922.00,12,2013,13/09/2017 00:00:00
+110,Central Geradora Solar Fotovoltaica,UFV,310,15080.00,12,2014,13/09/2017 00:00:00
+111,Central Geradora Solar Fotovoltaica,UFV,33,21336.00,12,2015,13/09/2017 00:00:00
+112,Central Geradora Solar Fotovoltaica,UFV,42,23008.42,12,2016,13/09/2017 00:00:00
+113,Central Geradora Solar Fotovoltaica,UFV,6,1087.00,3,2012,13/09/2017 00:00:00
+114,Central Geradora Solar Fotovoltaica,UFV,13,7586.00,3,2013,13/09/2017 00:00:00
+115,Central Geradora Solar Fotovoltaica,UFV,87,6209.00,3,2014,13/09/2017 00:00:00
+116,Central Geradora Solar Fotovoltaica,UFV,317,15179.00,3,2015,13/09/2017 00:00:00
+117,Central Geradora Solar Fotovoltaica,UFV,38,22933.00,3,2016,13/09/2017 00:00:00
+118,Central Geradora Solar Fotovoltaica,UFV,44,23760.67,3,2017,13/09/2017 00:00:00
+119,Central Geradora Solar Fotovoltaica,UFV,8,1494.00,6,2012,13/09/2017 00:00:00
+120,Central Geradora Solar Fotovoltaica,UFV,14,2617.00,6,2013,13/09/2017 00:00:00
+121,Central Geradora Solar Fotovoltaica,UFV,130,9940.00,6,2014,13/09/2017 00:00:00
+122,Central Geradora Solar Fotovoltaica,UFV,23,11233.00,6,2015,13/09/2017 00:00:00
+123,Central Geradora Solar Fotovoltaica,UFV,39,22951.52,6,2016,13/09/2017 00:00:00
+124,Central Geradora Solar Fotovoltaica,UFV,8,1494.00,9,2012,13/09/2017 00:00:00
+125,Central Geradora Solar Fotovoltaica,UFV,32,2762.00,9,2013,13/09/2017 00:00:00
+126,Central Geradora Solar Fotovoltaica,UFV,180,15312.00,9,2014,13/09/2017 00:00:00
+127,Central Geradora Solar Fotovoltaica,UFV,25,21233.00,9,2015,13/09/2017 00:00:00
+128,Central Geradora Solar Fotovoltaica,UFV,42,23008.42,9,2016,13/09/2017 00:00:00
+129,Usina Hidrelétrica de Energia,UHE,133,61554000.00,12,2001,13/09/2017 00:00:00
+130,Usina Hidrelétrica de Energia,UHE,138,64197600.00,12,2002,13/09/2017 00:00:00
+131,Usina Hidrelétrica de Energia,UHE,140,66460250.00,12,2003,13/09/2017 00:00:00
+132,Usina Hidrelétrica de Energia,UHE,144,67777680.00,12,2004,13/09/2017 00:00:00
+133,Usina Hidrelétrica de Energia,UHE,149,69631000.00,12,2005,13/09/2017 00:00:00
+134,Usina Hidrelétrica de Energia,UHE,156,72005411.00,12,2006,13/09/2017 00:00:00
+135,Usina Hidrelétrica de Energia,UHE,158,74936894.00,12,2007,13/09/2017 00:00:00
+136,Usina Hidrelétrica de Energia,UHE,160,74901000.00,12,2008,13/09/2017 00:00:00
+137,Usina Hidrelétrica de Energia,UHE,165,75484200.00,12,2009,13/09/2017 00:00:00
+138,Usina Hidrelétrica de Energia,UHE,173,77022190.00,12,2010,13/09/2017 00:00:00
+139,Usina Hidrelétrica de Energia,UHE,181,78371279.00,12,2011,13/09/2017 00:00:00
+140,Usina Hidrelétrica de Energia,UHE,204,79618158.00,12,2012,13/09/2017 00:00:00
+141,Usina Hidrelétrica de Energia,UHE,195,81092804.00,12,2013,13/09/2017 00:00:00
+142,Usina Hidrelétrica de Energia,UHE,201,84094838.00,12,2014,13/09/2017 00:00:00
+143,Usina Hidrelétrica de Energia,UHE,197,86002478.00,12,2015,13/09/2017 00:00:00
+144,Usina Hidrelétrica de Energia,UHE,219,91499178.33,12,2016,13/09/2017 00:00:00
+145,Usina Hidrelétrica de Energia,UHE,181,78371279.00,3,2012,13/09/2017 00:00:00
+146,Usina Hidrelétrica de Energia,UHE,205,80134573.00,3,2013,13/09/2017 00:00:00
+147,Usina Hidrelétrica de Energia,UHE,196,81801323.00,3,2014,13/09/2017 00:00:00
+148,Usina Hidrelétrica de Energia,UHE,201,84703838.00,3,2015,13/09/2017 00:00:00
+149,Usina Hidrelétrica de Energia,UHE,203,86992668.00,3,2016,13/09/2017 00:00:00
+150,Usina Hidrelétrica de Energia,UHE,219,92605229.33,3,2017,13/09/2017 00:00:00
+151,Usina Hidrelétrica de Energia,UHE,185,78755124.00,6,2012,13/09/2017 00:00:00
+152,Usina Hidrelétrica de Energia,UHE,191,80207481.00,6,2013,13/09/2017 00:00:00
+153,Usina Hidrelétrica de Energia,UHE,197,82205278.00,6,2014,13/09/2017 00:00:00
+154,Usina Hidrelétrica de Energia,UHE,197,85127318.00,6,2015,13/09/2017 00:00:00
+155,Usina Hidrelétrica de Energia,UHE,218,88350604.00,6,2016,13/09/2017 00:00:00
+156,Usina Hidrelétrica de Energia,UHE,201,78978614.00,9,2012,13/09/2017 00:00:00
+157,Usina Hidrelétrica de Energia,UHE,194,80731224.00,9,2013,13/09/2017 00:00:00
+158,Usina Hidrelétrica de Energia,UHE,198,82987658.00,9,2014,13/09/2017 00:00:00
+159,Usina Hidrelétrica de Energia,UHE,198,85278663.00,9,2015,13/09/2017 00:00:00
+160,Usina Hidrelétrica de Energia,UHE,220,90465984.11,9,2016,13/09/2017 00:00:00
+161,Usina Termelétrica de Energia,UTE,600,10480000.00,12,2001,13/09/2017 00:00:00
+162,Usina Termelétrica de Energia,UTE,654,13093200.00,12,2002,13/09/2017 00:00:00
+163,Usina Termelétrica de Energia,UTE,712,14080440.00,12,2003,13/09/2017 00:00:00
+164,Usina Termelétrica de Energia,UTE,766,17506060.00,12,2004,13/09/2017 00:00:00
+165,Usina Termelétrica de Energia,UTE,870,19769700.00,12,2005,13/09/2017 00:00:00
+166,Usina Termelétrica de Energia,UTE,945,20372125.00,12,2006,13/09/2017 00:00:00
+167,Usina Termelétrica de Energia,UTE,995,21228959.00,12,2007,13/09/2017 00:00:00
+168,Usina Termelétrica de Energia,UTE,1205,22756000.00,12,2008,13/09/2017 00:00:00
+169,Usina Termelétrica de Energia,UTE,1313,25081400.00,12,2009,13/09/2017 00:00:00
+170,Usina Termelétrica de Energia,UTE,1393,28829030.00,12,2010,13/09/2017 00:00:00
+171,Usina Termelétrica de Energia,UTE,1539,31243818.00,12,2011,13/09/2017 00:00:00
+172,Usina Termelétrica de Energia,UTE,1605,32672870.00,12,2012,13/09/2017 00:00:00
+173,Usina Termelétrica de Energia,UTE,1823,36538774.00,12,2013,13/09/2017 00:00:00
+174,Usina Termelétrica de Energia,UTE,1886,37606369.00,12,2014,13/09/2017 00:00:00
+175,Usina Termelétrica de Energia,UTE,2853,39392797.00,12,2015,13/09/2017 00:00:00
+176,Usina Termelétrica de Energia,UTE,2947,41099708.61,12,2016,13/09/2017 00:00:00
+177,Usina Termelétrica de Energia,UTE,1539,31354213.00,3,2012,13/09/2017 00:00:00
+178,Usina Termelétrica de Energia,UTE,1647,34339592.00,3,2013,13/09/2017 00:00:00
+179,Usina Termelétrica de Energia,UTE,1824,36756810.00,3,2014,13/09/2017 00:00:00
+180,Usina Termelétrica de Energia,UTE,2291,38372240.00,3,2015,13/09/2017 00:00:00
+181,Usina Termelétrica de Energia,UTE,2884,39520104.00,3,2016,13/09/2017 00:00:00
+182,Usina Termelétrica de Energia,UTE,2952,41119491.61,3,2017,13/09/2017 00:00:00
+183,Usina Termelétrica de Energia,UTE,1560,31863098.00,6,2012,13/09/2017 00:00:00
+184,Usina Termelétrica de Energia,UTE,1724,34861415.00,6,2013,13/09/2017 00:00:00
+185,Usina Termelétrica de Energia,UTE,1855,36936999.00,6,2014,13/09/2017 00:00:00
+186,Usina Termelétrica de Energia,UTE,2709,39394439.00,6,2015,13/09/2017 00:00:00
+187,Usina Termelétrica de Energia,UTE,2896,40127478.56,6,2016,13/09/2017 00:00:00
+188,Usina Termelétrica de Energia,UTE,1580,32418181.00,9,2012,13/09/2017 00:00:00
+189,Usina Termelétrica de Energia,UTE,1754,35220252.00,9,2013,13/09/2017 00:00:00
+190,Usina Termelétrica de Energia,UTE,1871,37477187.00,9,2014,13/09/2017 00:00:00
+191,Usina Termelétrica de Energia,UTE,2807,39693189.00,9,2015,13/09/2017 00:00:00
+192,Usina Termelétrica de Energia,UTE,2923,40660601.96,9,2016,13/09/2017 00:00:00
+193,Usina Termonuclear,UTN,2,1966000.00,12,2001,13/09/2017 00:00:00
+194,Usina Termonuclear,UTN,2,2007000.00,12,2002,13/09/2017 00:00:00
+195,Usina Termonuclear,UTN,2,2007000.00,12,2003,13/09/2017 00:00:00
+196,Usina Termonuclear,UTN,2,2007000.00,12,2004,13/09/2017 00:00:00
+197,Usina Termonuclear,UTN,2,2007000.00,12,2005,13/09/2017 00:00:00
+198,Usina Termonuclear,UTN,2,2007000.00,12,2006,13/09/2017 00:00:00
+199,Usina Termonuclear,UTN,2,2007000.00,12,2007,13/09/2017 00:00:00
+200,Usina Termonuclear,UTN,2,2007000.00,12,2008,13/09/2017 00:00:00
+201,Usina Termonuclear,UTN,2,2007000.00,12,2009,13/09/2017 00:00:00
+202,Usina Termonuclear,UTN,2,2007000.00,12,2010,13/09/2017 00:00:00
+203,Usina Termonuclear,UTN,2,2007000.00,12,2011,13/09/2017 00:00:00
+204,Usina Termonuclear,UTN,2,2007000.00,12,2012,13/09/2017 00:00:00
+205,Usina Termonuclear,UTN,2,1990000.00,12,2013,13/09/2017 00:00:00
+206,Usina Termonuclear,UTN,2,1990000.00,12,2014,13/09/2017 00:00:00
+207,Usina Termonuclear,UTN,2,1990000.00,12,2015,13/09/2017 00:00:00
+208,Usina Termonuclear,UTN,2,1990000.00,12,2016,13/09/2017 00:00:00
+209,Usina Termonuclear,UTN,2,2007000.00,3,2012,13/09/2017 00:00:00
+210,Usina Termonuclear,UTN,2,2007000.00,3,2013,13/09/2017 00:00:00
+211,Usina Termonuclear,UTN,2,1990000.00,3,2014,13/09/2017 00:00:00
+212,Usina Termonuclear,UTN,2,1990000.00,3,2015,13/09/2017 00:00:00
+213,Usina Termonuclear,UTN,2,1990000.00,3,2016,13/09/2017 00:00:00
+214,Usina Termonuclear,UTN,2,1990000.00,3,2017,13/09/2017 00:00:00
+215,Usina Termonuclear,UTN,2,2007000.00,6,2012,13/09/2017 00:00:00
+216,Usina Termonuclear,UTN,2,1990000.00,6,2013,13/09/2017 00:00:00
+217,Usina Termonuclear,UTN,2,1990000.00,6,2014,13/09/2017 00:00:00
+218,Usina Termonuclear,UTN,2,1990000.00,6,2015,13/09/2017 00:00:00
+219,Usina Termonuclear,UTN,2,1990000.00,6,2016,13/09/2017 00:00:00
+220,Usina Termonuclear,UTN,2,2007000.00,9,2012,13/09/2017 00:00:00
+221,Usina Termonuclear,UTN,2,1990000.00,9,2013,13/09/2017 00:00:00
+222,Usina Termonuclear,UTN,2,1990000.00,9,2014,13/09/2017 00:00:00
+223,Usina Termonuclear,UTN,2,1990000.00,9,2015,13/09/2017 00:00:00
+224,Usina Termonuclear,UTN,2,1990000.00,9,2016,13/09/2017 00:00:00
+225,Central Geradora Hidrelétrica,CGH,613,546490.84,6,2017,10/10/2017 00:00:00
+226,Central Geradora Eolielétrica,EOL,439,10701742.70,6,2017,10/10/2017 00:00:00
+227,Pequena Central Hidrelétrica,PCH,434,4976229.57,6,2017,10/10/2017 00:00:00
+228,Central Geradora Solar Fotovoltaica,UFV,50,144213.75,6,2017,10/10/2017 00:00:00
+229,Usina Hidrelétrica de Energia,UHE,219,93216340.44,6,2017,10/10/2017 00:00:00
+230,Usina Termelétrica de Energia,UTE,2926,41021055.39,6,2017,10/10/2017 00:00:00
+231,Usina Termonuclear,UTN,2,1990000.00,6,2017,10/10/2017 00:00:00
+232,Central Geradora Eolielétrica,EOL,501,12283243.00,12,2017,28/06/2018 00:00:00
+233,Central Geradora Hidrelétrica,CGH,658,593780.70,12,2017,28/06/2018 00:00:00
+234,Central Geradora Solar Fotovoltaica,UFV,81,935325.00,12,2017,28/06/2018 00:00:00
+235,Pequena Central Hidrelétrica,PCH,432,5019574.77,12,2017,28/06/2018 00:00:00
+236,Usina Hidrelétrica de Energia,UHE,221,94661994.66,12,2017,28/06/2018 00:00:00
+237,Usina Termelétrica de Energia,UTE,3012,41628208.00,12,2017,28/06/2018 00:00:00
+238,Usina Termonuclear,UTN,2,1990000.00,12,2017,28/06/2018 00:00:00
+239,Central Geradora Hidrelétrica,CGH,617,561000.04,9,2017,21/12/2017 00:00:00
+240,Central Geradora Eolielétrica,EOL,466,11386242.70,9,2017,21/12/2017 00:00:00
+241,Pequena Central Hidrelétrica,PCH,431,4955174.57,9,2017,21/12/2017 00:00:00
+242,Central Geradora Solar Fotovoltaica,UFV,59,298183.72,9,2017,21/12/2017 00:00:00
+243,Usina Hidrelétrica de Energia,UHE,219,93858333.55,9,2017,21/12/2017 00:00:00
+244,Usina Termelétrica de Energia,UTE,2930,41085156.74,9,2017,21/12/2017 00:00:00
+245,Usina Termonuclear,UTN,2,1990000.00,9,2017,21/12/2017 00:00:00
+246,Central Geradora Eolielétrica,EOL,511,12537942.86,3,2018,28/06/2018 00:00:00
+247,Central Geradora Hidrelétrica,CGH,670,627354.54,3,2018,28/06/2018 00:00:00
+248,Central Geradora Solar Fotovoltaica,UFV,81,935325.00,3,2018,28/06/2018 00:00:00
+249,Central Geradora Undi-elétrica,CGU,1,50.00,3,2018,28/06/2018 00:00:00
+250,Pequena Central Hidrelétrica,PCH,429,5042722.57,3,2018,28/06/2018 00:00:00
+251,Usina Hidrelétrica de Energia,UHE,220,95619467.77,3,2018,28/06/2018 00:00:00
+252,Usina Termelétrica de Energia,UTE,3002,41539113.04,3,2018,28/06/2018 00:00:00
+253,Usina Termonuclear,UTN,2,1990000.00,3,2018,28/06/2018 00:00:00
+263,Central Geradora Undi-elétrica,CGU,1,50.00,12,2017,28/06/2018 00:00:00
+296,Usina Hidrelétrica de Energia,UHE,220,96405578.88,6,2018,08/01/2019 00:00:00
+297,Pequena Central Hidrelétrica,PCH,427,5077852.57,6,2018,08/01/2019 00:00:00
+298,Central Geradora Hidrelétrica,CGH,685,672819.05,6,2018,08/01/2019 00:00:00
+299,Central Geradora Undi-elétrica,CGU,1,50.00,6,2018,08/01/2019 00:00:00
+300,Usina Termelétrica de Energia,UTE,3002,41539113.04,6,2018,08/01/2019 00:00:00
+301,Usina Termonuclear,UTN,2,1990000.00,6,2018,08/01/2019 00:00:00
+302,Central Geradora Eolielétrica,EOL,529,12920942.86,6,2018,08/01/2019 00:00:00
+303,Central Geradora Solar Fotovoltaica,UFV,2231,1306505.63,6,2018,08/01/2019 00:00:00
+304,Usina Hidrelétrica de Energia,UHE,218,96414819.88,9,2018,08/01/2019 00:00:00
+305,Pequena Central Hidrelétrica,PCH,427,5117516.57,9,2018,08/01/2019 00:00:00
+306,Central Geradora Hidrelétrica,CGH,692,690302.48,9,2018,08/01/2019 00:00:00
+307,Central Geradora Undi-elétrica,CGU,1,50.00,9,2018,08/01/2019 00:00:00
+308,Usina Termelétrica de Energia,UTE,3001,41337215.60,9,2018,08/01/2019 00:00:00
+309,Usina Termonuclear,UTN,2,1990000.00,9,2018,08/01/2019 00:00:00
+310,Central Geradora Eolielétrica,EOL,544,13370642.86,9,2018,08/01/2019 00:00:00
+311,Central Geradora Solar Fotovoltaica,UFV,2254,1322173.36,9,2018,08/01/2019 00:00:00
+312,Central Geradora Eólica,EOL,585,14390292.86,12,2018,25/01/2019 00:00:00
+313,Central Geradora Hidrelétrica,CGH,696,695138.45,12,2018,25/01/2019 00:00:00
+314,Central Geradora Solar Fotovoltaica,UFV,2273,1797580.26,12,2018,25/01/2019 00:00:00
+315,Central Geradora Undi-elétrica,CGU,1,50.00,12,2018,25/01/2019 00:00:00
+316,Pequena Central Hidrelétrica,PCH,427,5157379.57,12,2018,25/01/2019 00:00:00
+317,Usina Hidrelétrica,UHE,217,98286811.21,12,2018,25/01/2019 00:00:00
+318,Usina Termelétrica,UTE,3001,40263320.84,12,2018,25/01/2019 00:00:00
+319,Usina Termonuclear,UTN,2,1990000.00,12,2018,25/01/2019 00:00:00
+322,Central Geradora Eólica,EOL,606,14872792.86,3,2019,01/04/2019 00:00:00
+323,Central Geradora Hidrelétrica,CGH,698,708002.22,3,2019,01/04/2019 00:00:00
+324,Central Geradora Solar Fotovoltaica,UFV,2469,2074002.16,3,2019,01/04/2019 00:00:00
+325,Central Geradora Undi-elétrica,CGU,1,50.00,3,2019,01/04/2019 00:00:00
+326,Pequena Central Hidrelétrica,PCH,426,5183755.57,3,2019,01/04/2019 00:00:00
+327,Usina Hidrelétrica,UHE,217,98581477.99,3,2019,01/04/2019 00:00:00
+328,Usina Termelétrica,UTE,3009,40438359.89,3,2019,01/04/2019 00:00:00
+329,Usina Termonuclear,UTN,2,1990000.00,3,2019,01/04/2019 00:00:00
+330,Central Geradora Eólica,EOL,614,15063892.86,6,2019,01/07/2019 00:00:00
+331,Central Geradora Hidrelétrica,CGH,703,717037.29,6,2019,01/07/2019 00:00:00
+332,Central Geradora Solar Fotovoltaica,UFV,2474,2103238.52,6,2019,01/07/2019 00:00:00
+333,Central Geradora Undi-elétrica,CGU,1,50.00,6,2019,01/07/2019 00:00:00
+334,Pequena Central Hidrelétrica,PCH,426,5228425.57,6,2019,01/07/2019 00:00:00
+335,Usina Hidrelétrica,UHE,217,99922633.55,6,2019,01/07/2019 00:00:00
+336,Usina Termelétrica,UTE,3014,40453558.89,6,2019,01/07/2019 00:00:00
+337,Usina Termonuclear,UTN,2,1990000.00,6,2019,01/07/2019 00:00:00
+338,Central Geradora Eólica,EOL,618,15145092.86,9,2019,01/10/2019 00:00:00
+339,Central Geradora Hidrelétrica,CGH,713,744223.59,9,2019,01/10/2019 00:00:00
+340,Central Geradora Solar Fotovoltaica,UFV,3052,2267553.52,9,2019,01/10/2019 00:00:00
+341,Central Geradora Undi-elétrica,CGU,1,50.00,9,2019,01/10/2019 00:00:00
+342,Pequena Central Hidrelétrica,PCH,425,5232465.57,9,2019,01/10/2019 00:00:00
+343,Usina Hidrelétrica,UHE,217,100834417.11,9,2019,01/10/2019 00:00:00
+344,Usina Termelétrica,UTE,3022,40948974.49,9,2019,01/10/2019 00:00:00
+345,Usina Termonuclear,UTN,2,1990000.00,9,2019,01/10/2019 00:00:00
+346,Central Geradora Eólica,EOL,629,15377852.86,12,2019,01/01/2020 00:00:00
+347,Central Geradora Hidrelétrica,CGH,719,767788.23,12,2019,01/01/2020 00:00:00
+348,Central Geradora Solar Fotovoltaica,UFV,3769,2473431.90,12,2019,01/01/2020 00:00:00
+349,Central Geradora Undi-elétrica,CGU,1,50.00,12,2019,01/01/2020 00:00:00
+350,Pequena Central Hidrelétrica,PCH,423,5291461.57,12,2019,01/01/2020 00:00:00
+351,Usina Hidrelétrica,UHE,217,102998876.00,12,2019,01/01/2020 00:00:00
+352,Usina Termelétrica,UTE,3035,41127061.59,12,2019,01/01/2020 00:00:00
+353,Usina Termonuclear,UTN,2,1990000.00,12,2019,01/01/2020 00:00:00
+354,Central Geradora Eólica,EOL,636,15495027.86,3,2020,01/04/2020 00:00:00
+355,Central Geradora Hidrelétrica,CGH,731,794686.23,3,2020,01/04/2020 00:00:00
+356,Central Geradora Solar Fotovoltaica,UFV,3885,2679046.35,3,2020,01/04/2020 00:00:00
+357,Central Geradora Undi-elétrica,CGU,1,50.00,3,2020,01/04/2020 00:00:00
+358,Pequena Central Hidrelétrica,PCH,422,5307562.57,3,2020,01/04/2020 00:00:00
+359,Usina Hidrelétrica,UHE,217,102998876.00,3,2020,01/04/2020 00:00:00
+360,Usina Termelétrica,UTE,3054,42495516.59,3,2020,01/04/2020 00:00:00
+361,Usina Termonuclear,UTN,2,1990000.00,3,2020,01/04/2020 00:00:00
+362,Central Geradora Eólica,EOL,645,15722532.86,6,2020,01/07/2020 00:00:00
+363,Central Geradora Hidrelétrica,CGH,733,802630.13,6,2020,01/07/2020 00:00:00
+364,Central Geradora Solar Fotovoltaica,UFV,3895,2927973.95,6,2020,01/07/2020 00:00:00
+365,Central Geradora Undi-elétrica,CGU,1,50.00,6,2020,01/07/2020 00:00:00
+366,Pequena Central Hidrelétrica,PCH,416,5300908.57,6,2020,01/07/2020 00:00:00
+367,Usina Hidrelétrica,UHE,219,103002876.00,6,2020,01/07/2020 00:00:00
+368,Usina Termelétrica,UTE,3058,42958619.59,6,2020,01/07/2020 00:00:00
+369,Usina Termonuclear,UTN,2,1990000.00,6,2020,01/07/2020 00:00:00
